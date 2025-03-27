@@ -6,8 +6,7 @@
 
 ## About Me
 
-I'm a passionate developer crafting **Discord bots** and **websites** with a focus on clean code, efficiency, and innovation. Dive into my repositories to check out my latest projects and contributions!
-
+I'm a passionate developer crafting **Discord bots** and **websites** with a focus on clean code, efficiency, and innovation.
 > *"Who am I to judge another, when I myself walk imperfectly?"*
 
 ---
