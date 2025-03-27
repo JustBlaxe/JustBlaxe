@@ -1,5 +1,3 @@
-# Hey there! Welcome to my GitHub! 👋
-
 ![Animated Banner](https://img.dchost.cloud/ycumod1rbz1onrxctrrh)
 
 ---
