@@ -44,8 +44,7 @@ I'm a passionate developer crafting **Discord bots** and **websites** with a foc
 
 ## Stats & Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=blaxe-dev&color=brightgreen&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justblaxe&show_icons=true&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=a&color=brightgreen&style=flat)
 
 ---
 
