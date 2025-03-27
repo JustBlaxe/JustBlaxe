@@ -39,16 +39,3 @@ I'm a passionate developer crafting **Discord bots** and **websites** with a foc
 ![Español](https://img.shields.io/badge/Español-FFD700?style=flat&logo=spain&logoColor=white)
 ![Norsk](https://img.shields.io/badge/Norsk-FF4D00?style=flat&logo=norway&logoColor=white)
 ![Svenska](https://img.shields.io/badge/Svenska-0052CC?style=flat&logo=sweden&logoColor=white)
-
----
-
-## Stats & Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=a&color=brightgreen&style=flat)
-
----
-
-## Let’s Connect!
-
-- 📧 **Email:** [blaxe@trustify.gg](mailto:blaxe@trustify.gg)  
-- 💬 **Discord:** blaxe.dev  
