@@ -1,6 +1,6 @@
 # Hey there! Welcome to my GitHub! 👋
 
-![Animated Banner](https://github.com/blaxe-dev/blaxe-dev/blob/main/assets/banner.gif)
+![Animated Banner](https://img.dchost.cloud/ycumod1rbz1onrxctrrh)
 
 ---
 
